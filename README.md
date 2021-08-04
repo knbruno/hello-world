@@ -1,2 +1,4 @@
 # hello-world
-try to make repository
+
+Hi GitHub!
+I'm trying to enjoy with you!
